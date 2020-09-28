@@ -1,0 +1,152 @@
+{
+  "main": {
+    "name": "Rahuol Malodhe S",
+    "occupation": "Front End Web Developer, Part time Graphic designer, Content Writer ",
+    "description": "Front End Web Developer by Day, Graphic Designer and Content writer by Night. #papaReact",
+    "image": "https://images.unsplash.com/photo-1556711240-9d578614d08e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80",
+    "bio": "My name is Rahul Malodhe S, I'm a Front End Web Developer. Currently I'm working on myself, improving my skillset to be the best in what I do",
+    "contactmessage": "Get in touch with me to receive further details, get your Front End website done with free Graphic designed premium logos and Awesome content for your website.",
+    "email": "malodhe18@gmail.com",
+    "phone": "8050927826",
+    "address": {
+      "street": "Vaibhav Nilayam, 3rd cross Viveknagar ext. Oil mill Road Robertsonpet K.G.F",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "zip": "563122"
+    },
+    "website": "rahulmalodhe.github.io",
+    "resumedownload": "https://internshala.com/student/resume?detail_source=resume_direct",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/profile.php?id=100008792290345",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/rahul-malodhe-b57987179/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/mylife_myway18/?hl=en",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/rahulmalodhe",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Don Bosco Institute Of Technology",
+        "degree": "Bachelors in Electronics and Communication Engineering",
+        
+        "description": "Graduation date 2021 July"
+      }
+    ],
+    "work": [
+      {
+        "company": "HomeScape",
+        "title": "Content Writer",
+        "years": "July 2020 - Present",
+        "description": "Creating Contents for Blogs, Wikipedia and Quora"
+      }
+     
+    ],
+    "skills": [
+      {
+        "name": "Html5",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "55%"
+      },
+      {
+        "name": "Python",
+        "level": "40%"
+      },
+      {
+        "name": "C Programming",
+        "level": "70%"
+      },
+      {
+        "name": "Graphic Designing",
+        "level": "75%"
+      },
+
+      {
+        "name": "React",
+        "level": "15%"
+      },
+
+      {
+        "name": "BootStrap4",
+        "level": "30%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Portal",
+        "category": "Portal to my website",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+      },
+      {
+        "title": "Game Development",
+        "category": "Game development Graphics",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Most kind and humble person I have ever met, a budding CEO, great! Front end Web developer, Awesome Graphic Designs",
+        "user": "S. Tejaswini"
+      },
+      {
+        "text": "Awesome Front End Web Design and content creation, looking forward to do something big together",
+        "user": "YashRaj"
+      },
+      {
+        "text": "One of the most cabaple and budding developer I have met",
+        "user": "Ankita Rani"
+      }  
+    ]
+  }
+}
